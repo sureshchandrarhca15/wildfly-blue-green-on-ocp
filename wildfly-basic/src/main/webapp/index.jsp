@@ -2,7 +2,7 @@
     <html>
 
     <head>
-        <title>WildFly on Openshift- Simple HTTP Request Headers Dump</title>
+        <title>WildFly on Openshift- Simple HTTP Request Headers Dump Version 2</title>
     </head>
 
     <body>
