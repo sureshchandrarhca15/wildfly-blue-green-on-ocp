@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h2>WildFly on Openshift- Simple HTTP Request Headers Dump</h2>
+        <h2>WildFly on Openshift- Simple HTTP Request Headers Dump Version 2</h2>
         <table>
             <% Enumeration enumeration = request.getHeaderNames(); while (enumeration.hasMoreElements()) { String name=(String) enumeration.nextElement(); String value = request.getHeader(name); %>
                 <tr>
